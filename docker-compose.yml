@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  gestion-produits:
+    image: image_gestion-produit
+    container_name: container_gestion-produit
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        - FORCE_RM=true
+
+    ports:
+      - "8080:8080"

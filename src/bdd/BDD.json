@@ -1,0 +1,62 @@
+[
+  {
+    "code": "PRD12345",
+    "name": "Produit Exemple 1",
+    "description": "Description de produit 1.",
+    "image": "image1.jpg",
+    "category": "Catégorie Exemple 1",
+    "price": 99.99,
+    "quantity": 100,
+    "internalReference": "REF123",
+    "shellId": 1,
+    "inventoryStatus": "INSTOCK",
+    "rating": 4.5,
+    "createdAt": "2024-09-27T12:00:00",
+    "updatedAt": "2024-09-27T12:00:00"
+  },
+  {
+    "code": "PRD12346",
+    "name": "Produit Exemple 2",
+    "description": "Description de produit 2.",
+    "image": "image2.jpg",
+    "category": "Catégorie Exemple 2",
+    "price": 149.99,
+    "quantity": 50,
+    "internalReference": "REF124",
+    "shellId": 2,
+    "inventoryStatus": "LOWSTOCK",
+    "rating": 4.0,
+    "createdAt": "2024-09-27T12:00:00",
+    "updatedAt": "2024-09-27T12:00:00"
+  },
+  {
+    "code": "PRD12347",
+    "name": "Produit Exemple 3",
+    "description": "Description de produit 3.",
+    "image": "image3.jpg",
+    "category": "Catégorie Exemple 3",
+    "price": 199.99,
+    "quantity": 0,
+    "internalReference": "REF125",
+    "shellId": 3,
+    "inventoryStatus": "OUTOFSTOCK",
+    "rating": 4.8,
+    "createdAt": "2024-09-27T12:00:00",
+    "updatedAt": "2024-09-27T12:00:00"
+  },
+  {
+    "code": "PRD12348",
+    "name": "Produit Exemple 4",
+    "description": "Description de produit 4.",
+    "image": "image4.jpg",
+    "category": "Catégorie Exemple 4",
+    "price": 299.99,
+    "quantity": 30,
+    "internalReference": "REF126",
+    "shellId": 4,
+    "inventoryStatus": "INSTOCK",
+    "rating": 5.0,
+    "createdAt": "2024-09-27T12:00:00",
+    "updatedAt": "2024-09-27T12:00:00"
+  }
+]
